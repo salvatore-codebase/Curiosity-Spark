@@ -1,0 +1,1 @@
+A daily discovery platform that delivers one mind-blowing fact every 24 hours. More than just a reader, it invites users to engage with the world’s most interesting data through interactive polls and community reactions.
